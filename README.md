@@ -1,6 +1,6 @@
 # mms142-GroupB-2020
 
-<h1>How to commit changes to the webpages:</h1>
+##<center>How to commit changes to the webpages:
 Open this link in a new tab: https://hannahmeg.github.io/mms142-GroupB-2020/index.html
 Open this in another tab:
 https://github.com/hannahmeg/mms142-GroupB-2020/tree/history
